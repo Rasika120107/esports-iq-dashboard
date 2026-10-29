@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+esports_iq.db
+audit_log.jsonl
+.streamlit/secrets.toml
